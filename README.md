@@ -15,11 +15,11 @@ Top & low-performing executive analysis
 Interactive slicers and dynamic charts
 
 🛠 Tools & Technologies:
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Data Cleaning
-KPI Tracking
-Conditional Formatting
+Microsoft Excel,
+Pivot Tables & Pivot Charts,
+Data Cleaning,
+KPI Tracking,
+Conditional Formatting,
 Dashboard Design
 
 📈 Business Insights:
