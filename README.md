@@ -5,9 +5,13 @@ This project presents an interactive Sales Performance Dashboard built using Mic
 
 🔍 Key Features:
 Regional sales analysis
+
 Target Hit % tracking
+
 Performance gap identification
+
 Top & low-performing executive analysis
+
 Interactive slicers and dynamic charts
 
 🛠 Tools & Technologies:
